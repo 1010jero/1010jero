@@ -40,7 +40,7 @@
 
 ## 🚀 Proyectos Destacados
 
-### 🏪 [AdminMarket](https://github.com/1010jero/AdminMarket)
+### 🏪 [AdminMarket](https://juanjoven099.github.io/tailwindcss-loginpage/)
 > Sistema para la **administración de tiendas de barrio**. Permite gestionar inventario, ventas y clientes de forma sencilla y eficiente.
 
 ---
