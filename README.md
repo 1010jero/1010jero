@@ -1,7 +1,7 @@
 <!-- Profile README - Jeronimo Ortiz -->
 
 <h1 align="center">¡Hola! Soy Jerónimo Ortiz 👋</h1>
-## 💻 Aspiring Software Developer | SENA Student
+💻 Aspiring Software Developer | SENA Student
 
 Soy aprendiz del área de desarrollo de software, interesado en la programación, la tecnología y la creación de soluciones digitales. Actualmente estoy fortaleciendo mis conocimientos y habilidades a través de proyectos y nuevos aprendizajes. 🚀
 
